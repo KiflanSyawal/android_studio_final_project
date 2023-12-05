@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">final_project</string>
+
+    <string name="news_a">Test</string>
+    <string name="news_b">Test</string>
+    <string name="news_c">Test</string>
+    <string name="news_d">Test</string>
+    <string name="news_e">Test</string>
+    <string name="news_f">Test</string>
+    <string name="news_g">Test</string>
+    <string name="news_h">Test</string>
+    <string name="news_i">Test</string>
+    <string name="news_j">Test</string>
+
+</resources>
